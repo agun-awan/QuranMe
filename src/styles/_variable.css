@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+:root{
+    --primary-color: #06beb6;
+    --primary-color-2: #00a2c6;
+    --linear-gradient: linear-gradient(to left, #06beb6, #48b1bf);
+    --rob-slab: 'Roboto Slab', sans-serif;
+}
